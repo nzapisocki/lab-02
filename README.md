@@ -2,14 +2,18 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Noah Zapisocki
+- **CCID:** 1801390
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
 
+NA 
+
 ## Verbal Collaboration
+
+NA
 
 | Student Name | CCID      |
 | ------------ | --------- |
